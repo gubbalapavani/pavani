@@ -26,6 +26,7 @@ public class Googlestepdef {
 	    }
 	    else {
 	    	System.out.println("TC is fail");
+		    System.out.println("TC is loaded");
 	    }
 	}
 
